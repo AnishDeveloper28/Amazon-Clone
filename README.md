@@ -16,6 +16,6 @@ A modern Amazon homepage UI clone built using HTML, CSS, and JavaScript. This pr
 - ⚡ **CSS Flexbox & Grid** – For layout and responsiveness.
   
 📌 Future Enhancements<br>
-🔹 Add **JavaScript interactivity** (e.g., dropdown menus, animations).<br>   
-🔹 Implement **API integration** for real-time product data.<br>
-🔹 Improve animations for a smoother user experience.<br>
+🔹 Add **JavaScript interactivity** (e.g., dropdown menus, animations).   
+🔹 Implement **API integration** for real-time product data.
+🔹 Improve animations for a smoother user experience.
