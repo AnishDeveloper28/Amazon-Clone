@@ -11,9 +11,9 @@ A modern Amazon homepage UI clone built using HTML, CSS, and JavaScript. This pr
 ✅ **Responsive design** for desktop and mobile views.
 
 🛠 Tech Stack<br>
-- 🎨 **HTML, CSS** – Structuring and styling the UI.   
-- 🎭 **FontAwesome** – For icons.  
-- ⚡ **CSS Flexbox & Grid** – For layout and responsiveness.
+🎨 **HTML, CSS** – Structuring and styling the UI.   
+🎭 **FontAwesome** – For icons.  
+⚡ **CSS Flexbox & Grid** – For layout and responsiveness.
   
 📌 Future Enhancements<br>
 🔹 Add **JavaScript interactivity** (e.g., dropdown menus, animations).   
